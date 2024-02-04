@@ -1,0 +1,1 @@
+# Obezite-veriseti-kullanilarak-kesifci-veri-analizi
